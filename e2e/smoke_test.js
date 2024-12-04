@@ -6,7 +6,7 @@ Scenario('example.com にアクセスする', ({ I }) => {
 });
 
 Scenario('Webサイトを開きログインする', ({ I }) => {
-  I.amOnPage('https://fastify-webapp-sample-production-1091.up.railway.app/')
+  I.amOnPage('/')
   I.click('ログインする')
   I.fillField('ユーザー名', 'user1')
   I.fillField('パスワード', 'super-strong-passphrase')
