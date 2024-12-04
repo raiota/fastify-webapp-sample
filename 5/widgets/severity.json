@@ -1,0 +1,1 @@
+[{"uid":"6b80fae30fcd1202","name":"Webサイトを開きログインする","time":{"start":1733287738227,"stop":1733287741618,"duration":3391},"status":"passed","severity":"normal"},{"uid":"2af1f828b8cbdbdb","name":"example.com にアクセスする","time":{"start":1733287738226,"stop":1733287738748,"duration":522},"status":"passed","severity":"normal"}]
